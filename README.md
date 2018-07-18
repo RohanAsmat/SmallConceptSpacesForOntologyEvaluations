@@ -1,7 +1,7 @@
 # Small Concept Spaces For Ontology Evaluations
 Small concept spaces defined for usability evaluation of different ontology modelling tools. These are defined with an idea of having same cognitive complexity, so that usability evaluation results are not affected due to the difference in cognitive complexity. These concept spaces contain concepts from among four types that are **Class, Subclass, Datatype Property and Objecttype Property**. The concepts labeled with * can be used multiple times or not at all. Five small concept spaces are presented below:
 
-### University Space
+### University Space(US)
 We use this concept space only for training purposes, hence we haven't performed qualitative measurement over the time required to model this ontology.
 
  <table style="width:100%">
@@ -32,7 +32,7 @@ We use this concept space only for training purposes, hence we haven't performed
   </tr>
 </table> 
 
-### Zoo Space
+### Zoo Space(ZS)
 
  <table style="width:100%">
   <tr>
@@ -62,7 +62,7 @@ We use this concept space only for training purposes, hence we haven't performed
   </tr>
 </table> 
 
-### City Traffic Space
+### City Traffic Space(CTS)
  <table style="width:100%">
   <tr>
     <td>Vehicle</td>
@@ -91,7 +91,7 @@ We use this concept space only for training purposes, hence we haven't performed
   </tr>
 </table> 
 
-### Media Space
+### Media Space(MS)
  <table style="width:100%">
   <tr>
     <td>Media Network</td>
@@ -120,7 +120,7 @@ We use this concept space only for training purposes, hence we haven't performed
   </tr>
 </table> 
 
-### Family Space
+### Family Space(FS)
 <table style="width:100%">
   <tr>
     <td>Child</td>
@@ -149,5 +149,6 @@ We use this concept space only for training purposes, hence we haven't performed
   </tr>
 </table> 
 
-
+## Quantitative Evaluation of The Concept Spaces
+The quantitative evaluation of the above presented four concept spaces that are ZS, FS, CTS and MS was measured by recording time completion time of particpants to model these concept spaces. The tool used to model these concept spaces was Protege. 
 

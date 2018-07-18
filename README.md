@@ -209,3 +209,51 @@ The task completion time to model the concept spaces are presented below:
   </tr>
 </table> 
 
+## Counterbalancing The Order of Presentation
+The order in which the users were asked to model the ontologies using the Protégé was radomized inorder to minimize the order effects. The table below presents the order in which participants were presented with the concept spaces:
+
+<table style="width:100%">
+ <tr>
+    <th></th>
+    <th colspan="4">Concept Spaces</th>
+  </tr>
+  <tr>
+    <th>Participant</th>
+    <th>Concept Space A</th>
+    <th>Concept Space B</th>
+    <th>Concept Space C</th>
+    <th>Concept Space D</th>
+  </tr>
+  <tr>
+     <td><b>A</b></td>
+    <td>Zoo Space</td>
+    <td>City Traffic Space</td>
+    <td>Media Space</td>
+    <td>Family Tree Space</td>
+  </tr>
+ 
+  <tr>
+     <td><b>B</b></td>
+    <td>City Traffic Space</td>
+    <td>Zoo Space</td>
+    <td>Family Tree Space</td>
+    <td>Media Space</td>
+  </tr>
+  
+  <tr>
+     <td><b>C</b></td>
+    <td>Family Tree Space</td>
+    <td>Media Space</td>
+    <td>City Traffic Space</td>
+    <td>Zoo Space</td>
+  </tr>
+  
+  <tr>
+     <td><b>D</b></td>
+    <td>Family Tree Space</td>
+    <td>City Traffic Space</td>
+    <td>Media Space</td>
+    <td>Zoo Space</td>
+  </tr>
+</table>
+

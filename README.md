@@ -65,32 +65,59 @@ We use this concept space only for training purposes, hence we haven't performed
 ### City Traffic Space
  <table style="width:100%">
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>Vehicle</td>
+    <td>Bus</td>
+    <td>model name</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Manufacturer</td>
+    <td>City Traffic</td>
+    <td>Public Vehicle</td>
   </tr>
    <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Car</td>
+    <td>manufactured by</td>
+    <td>Private Vehicle</td>
   </tr>
    <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Train</td>
+    <td>manufacturing date</td>
+    <td></td>
   </tr>
    <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
   </tr>
 </table> 
 
 ### Media Space
+ <table style="width:100%">
+  <tr>
+    <td>Media Network</td>
+    <td>News Channel</td>
+    <td>Daily News Channel</td>
+  </tr>
+  <tr>
+    <td>channel name</td>
+    <td>Sports Channel</td>
+    <td>shows</td>
+  </tr>
+   <tr>
+    <td>Local Sports Channel</td>
+    <td>News Program</td>
+    <td>Channel</td>
+  </tr>
+   <tr>
+    <td>International Sports Channel</td>
+    <td>Airing Time</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
 
 ### Family Space

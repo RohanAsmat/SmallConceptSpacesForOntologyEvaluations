@@ -150,36 +150,42 @@ We use this concept space only for training purposes, hence we haven't performed
 </table> 
 
 ## Quantitative Evaluation of The Concept Spaces
-The quantitative evaluation of the above presented four concept spaces that are ZS, FS, CTS and MS was measured by recording time completion time of particpants to model these concept spaces. The tool used to model these concept spaces was Protege. 
+The quantitative evaluation of the above presented four concept spaces that are Zoo Space, Media Space, Family Space and City Traffic Space was measured by recording time completion time of particpants to model these concept spaces. The tool used to model these concept spaces was Protege. 
 
 The task completion time to model the concept spaces are presented below:
 <table style="width:100%">
-  <tr>
-    <td>Child</td>
-    <td>childs birthplace</td>
-    <td>Family Tree</td>
-    <td>Family Tree</td>
+ <tr>
+    <th></th>
+    <th colspan="4">Task Completion Time For Modeling Ontology(Seconds)</th>
   </tr>
   <tr>
-    <td>Female</td>
+    <th>Participant</th>
+    <th>Family Space</th>
+    <th>City Traffic Space</th>
+    <th>Media Space/th>
+    <th>Zoo Space</th>
+  </tr>
+  <tr>
+    <td><b>A</b></td>
     <td>Mother</td>
     <td>Grandmother</td>
     <td>Family Tree</td>
+    <td>Family Tree</td>
   </tr>
    <tr>
-    <td>Male</td>
+    <td><b>B</b></td>
     <td>gives birth</td>
     <td>Father</td>
     <td>Family Tree</td>
   </tr>
    <tr>
-    <td>Person</td>
+    <td><b>C</b></td>
     <td>person name</td>
     <td></td>
     <td>Family Tree</td>
   </tr>
    <tr>
-    <td>has*</td>
+    <td><b>D</b></td>
     <td>Is a*</td>
     <td></td>
     <td>Family Tree</td>

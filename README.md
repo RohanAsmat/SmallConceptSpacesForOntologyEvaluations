@@ -121,3 +121,33 @@ We use this concept space only for training purposes, hence we haven't performed
 </table> 
 
 ### Family Space
+<table style="width:100%">
+  <tr>
+    <td>Child</td>
+    <td>childs birthplace</td>
+    <td>Family Tree</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>Mother</td>
+    <td>Grandmother</td>
+  </tr>
+   <tr>
+    <td>Male</td>
+    <td>gives birth</td>
+    <td>Father</td>
+  </tr>
+   <tr>
+    <td>Person</td>
+    <td>person name</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+
+
+

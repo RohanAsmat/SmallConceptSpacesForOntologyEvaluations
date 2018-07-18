@@ -162,7 +162,7 @@ The task completion time to model the concept spaces are presented below:
     <th>Participant</th>
     <th>Family Space</th>
     <th>City Traffic Space</th>
-    <th>Media Space/th>
+    <th>Media Space</th>
     <th>Zoo Space</th>
   </tr>
   <tr>

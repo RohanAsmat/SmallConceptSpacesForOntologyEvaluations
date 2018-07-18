@@ -167,28 +167,45 @@ The task completion time to model the concept spaces are presented below:
   </tr>
   <tr>
     <td><b>A</b></td>
-    <td>Mother</td>
-    <td>Grandmother</td>
-    <td>Family Tree</td>
-    <td>Family Tree</td>
+    <td>237</td>
+    <td>302</td>
+    <td>349</td>
+    <td>362</td>
   </tr>
    <tr>
     <td><b>B</b></td>
-    <td>gives birth</td>
-    <td>Father</td>
-    <td>Family Tree</td>
+    <td>330</td>
+    <td>428</td>
+    <td>429</td>
+    <td>403</td>
   </tr>
    <tr>
     <td><b>C</b></td>
-    <td>person name</td>
-    <td></td>
-    <td>Family Tree</td>
+    <td>389</td>
+    <td>183</td>
+    <td>361</td>
+    <td>270</td>
   </tr>
    <tr>
-    <td><b>D</b></td>
-    <td>Is a*</td>
-    <td></td>
-    <td>Family Tree</td>
+     <td><b>D</b></td>
+    <td>343</td>
+    <td>416</td>
+    <td>503</td>
+    <td>332</td>
+  </tr>
+ <tr>
+     <td><b>SUM</b></td>
+    <td>1299</td>
+    <td>1329</td>
+    <td>1642</td>
+    <td>1367</td>
+  </tr>
+ <tr>
+     <td><b>MEAN</b></td>
+    <td>324.75</td>
+    <td>332.25</td>
+    <td>410.5</td>
+    <td>341.75</td>
   </tr>
 </table> 
 
